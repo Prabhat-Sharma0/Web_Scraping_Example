@@ -3,9 +3,9 @@ import praw
 
 def getting_reddit_data_from_api(subreddit, tags, count):
     # Setting Reddit API credentials
-    client_id = 'sWNDt6ADMihmO4aUgbq72A'
-    client_secret = '0xPK5CVTzo6W4zlip2-2XOFWtVuQkA'
-    user_agent = 'data_sentiment_analysis/1.0.0'
+    client_id = ''
+    client_secret = ''
+    user_agent = ''
 
     # connecting to redit using praw lib
     reddit_api = praw.Reddit(client_id=client_id, client_secret=client_secret, user_agent=user_agent)
