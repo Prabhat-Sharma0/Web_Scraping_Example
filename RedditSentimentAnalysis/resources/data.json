@@ -1,0 +1,14 @@
+{
+  "sentiments": [
+    {
+      "positive": "happy\nexcited\njoyful\nawesome\nfantastic\ngreat\nlove\namazing\nwonderful\nexcellent"
+    }
+  ],
+  "inputData": [
+    {
+      "python": "Data Engineering Projects\npandas\npyspark\nGCP Projects\nHadoop",
+      "Java": "Rest API Services\nProjects\nMicroServices Application model\nGCP\nConnecting with data engineering",
+      "Javascript": "Automation\nUI work\nFrontend Projects\nInteractive UI"
+    }
+  ]
+}
